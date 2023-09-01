@@ -1,0 +1,25 @@
+Task 1: Grade Calculator**
+Write a Python program that takes a student's score as input (0-100) and prints the corresponding letter grade based on the following scale:
+- 90-100: A
+- 80-89: B
+- 70-79: C
+- 60-69: D
+- 0-59: F
+
+**Task 2: Find the Largest Number**
+Write a Python program that takes three numbers as input and prints the largest of the three.
+
+**Task 3: to find a leap year**
+
+task4 : calculate totaly salary of employee accoridng to given formula
+ if salary greater then 50000 then dedcut tax 7% of salary.
+if salary is between 50001 to 100000 then tax will be 14 %
+if salary is between 100001 to 150000 then tax ill 21% 
+ and if salary more than 150000 then tax will be 35
+ show the net salary
+
+gross pay = total salary
+net pay = after deduction (home taking salary)
+
+you have to display gross and net pay also
+
